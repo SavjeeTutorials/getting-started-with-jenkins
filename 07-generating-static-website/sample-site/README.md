@@ -1,1 +1,0 @@
-This dummy website is based on the [Hagura theme](https://github.com/sharu725/hagura).
